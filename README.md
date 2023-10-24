@@ -10,6 +10,12 @@ https://play.google.com/store/apps/details?id=com.winit.starnews.hin
 ABP Desam: Telugu News| ఏబీపీ 
 https://play.google.com/store/apps/details?id=com.abp.telugu
 
+SPDY
+https://play.google.com/store/apps/details?id=com.app.spdy
+
+SPDY Provider
+https://play.google.com/store/apps/details?id=com.app.spdyprovider
+
 Beat Music Player
 https://play.google.com/store/apps/details?id=com.playermusic.musicplayerapp&hl=en-IN
 
