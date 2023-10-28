@@ -2,11 +2,15 @@
 
 
 Trustr+ APM
+
 Application developed for Healthcare institute, app functionlity includes capture vitals using Binah sdk,, schedule online/offline appointments, for online appointments patient and doctor join using video call and dicusss on problem, symtom patient facing,  and doctor diagnos it and prescibe mediicines directly from the app with nearby pharmacy also. Doctor upload test report, lab reports ,X-rays from the app, so patient can see it in the app. 
+
 https://play.google.com/store/apps/details?id=com.trustrapm.patient
 
 ABP news
+
 ABP Live News, India's leading TV news channel: The official ABP Live App brings the latest and top news in Hindi, English, Marathi, Bengali, Gujarati, Punjabi, Tamil and Telugu languages under one umbrella. ABP, India's leading TV news channel, offers easy access to Live TV of all its channels on the app. 10M+ Downloads.
+
 https://play.google.com/store/apps/details?id=com.winit.starnews.hin
 
 ABP Desam: Telugu News| ఏబీపీ 
